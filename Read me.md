@@ -20,7 +20,7 @@
  
  ` rclone config`
  
- ### 3. Then you will see a setup process to make a connection with your google drive account:
+ ### 3. Then you will see a setup process to make a connection to your google drive account:
  
  see https://rclone.org/drive/
  
