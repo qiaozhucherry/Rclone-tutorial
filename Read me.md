@@ -28,6 +28,8 @@
  
  `rclone ls <your drive's name>:`
  
+ `rclone lsf <your drive's name>,shared with me:`
+ 
  ### 5. Transfer share with me files to cluster: (recommend use "copy" instead of "sync")
  
  `rclone copy -v <your drive's name>,shared_with_me:shared_files <dirctory path you'd like to restore data>`
